@@ -1,0 +1,7 @@
+name: Plauge
+main: Plauge
+version: 0.1
+commands:
+    plauge:
+        discription: A plugin to make a plauge of pig zombies
+        usage: /<command> disable
